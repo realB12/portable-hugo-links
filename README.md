@@ -1,5 +1,5 @@
 
-* [Blog Link](/blog/p1/index.md)
+* [Blog Link](blog/p1/index.md)
 * [Doc Link](/docs/d1.md)
 * [Doc Link With Anchor](/docs/d1.md#anchor)
 
